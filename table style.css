@@ -1,0 +1,26 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(97, 106, 112)
+}
+h1{
+    font-size: 70px;
+    text-transform: capitalize
+}
+table{
+    width: 900px;
+    height: 350px;
+    padding-top: 50px;
+}
+tr{
+    background-color: bisque;
+    padding-top: 50px;
+}
+.wed{
+    background-color: aqua
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    float:right;
+}
